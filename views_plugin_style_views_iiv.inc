@@ -2,7 +2,7 @@
 
 /**
  * @file
- * Contains the views_b4 style plugin.
+ * Contains the views_iiv style plugin.
  */
 
 class views_plugin_style_views_iiv extends views_plugin_style {
