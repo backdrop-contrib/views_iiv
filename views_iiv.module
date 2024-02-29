@@ -18,9 +18,9 @@ function views_iiv_autoload_info() {
  */
 function views_iiv_views_api() {
   return array(
-    'api' => '3',
-    'path' => backdrop_get_path('module', 'views_iiv'),
-    'template_path' => backdrop_get_path('module', 'views_iiv'),
+    'api' => views_api_version(),
+    'path' => backdrop_get_path('module', 'views_iiv')  . '/views',
+    'template_path' => backdrop_get_path('module', 'views_iiv')  . '/views',
   );
 }
 

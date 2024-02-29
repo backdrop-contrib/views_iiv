@@ -1,8 +1,6 @@
 name = Views IIV
 description = Views IIV
-backdrop = 1.x
 type = module
 package = Views
 dependencies[] = views
-
-stylesheets[all][] = views_iiv.css
+backdrop = 1.x
