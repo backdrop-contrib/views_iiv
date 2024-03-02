@@ -9,7 +9,7 @@
  */
 function views_iiv_autoload_info() {
   return array(
-    'views_plugin_style_views_iiv' => 'views_plugin_style_views_iiv.inc',
+    'views_plugin_style_views_iiv' => 'views/views_plugin_style_views_iiv.inc',
   );
 }
 
